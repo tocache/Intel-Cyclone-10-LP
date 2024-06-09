@@ -1,5 +1,5 @@
 # Intel-Cyclone-10-LP
-A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit
+A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
 <img src="cyclone-10-lp-board.jpg">
 
 References:
