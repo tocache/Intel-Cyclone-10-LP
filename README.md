@@ -3,8 +3,8 @@ A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
 <img src="cyclone-10-lp-board.jpg">
 
 References:
-- Intel (2017). Cyclone 10 LP Device Overview. https://www.intel.com/content/www/us/en/docs/programmable/683879/current/device-overview.html<br>
-- Intel (2020). Cyclone 10 LP Nios II 'Hello World' Lab Manual. https://www.intel.com/content/dam/support/us/en/programmable/support-resources/fpga-wiki/asset03/c10lp-nios-ii-hello-world-lab-manual.pdf<br><br>
+- Intel (2020). Cyclone 10 LP Device Overview. https://www.intel.com/content/www/us/en/docs/programmable/683879/current/device-overview.html<br>
+- Intel (2017). Cyclone 10 LP Nios II 'Hello World' Lab Manual. https://www.intel.com/content/dam/support/us/en/programmable/support-resources/fpga-wiki/asset03/c10lp-nios-ii-hello-world-lab-manual.pdf<br><br>
 
 Video References:
 - ClockFabric (2018). Introducing Intel Cyclone 10 LP FPGA. https://www.youtube.com/watch?v=w_FmjOG6kxQ&list=PLFfHucesVFJIsXRupVNl27LgeE_31wdYw<br>
