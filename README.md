@@ -1,6 +1,8 @@
 # Intel-Cyclone-10-LP
 A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
-<img src="cyclone-10-lp-board.jpg">
+<img src="cyclone-10-lp-board.jpg"><br>
+Changelog:
+2024/06/23 - Latest supported Quartus Prime Lite version for Cyclone 10 LP devices is 23.1.1
 
 References:
 - Intel (2024). Quartus Prime Design Software. https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime/resource.html
