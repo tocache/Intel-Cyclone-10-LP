@@ -1,7 +1,7 @@
 # Intel-Cyclone-10-LP
 A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
 <img src="cyclone-10-lp-board.jpg"><br>
-<b>Changelog:</b>
+<b>Changelog:</b><br>
 2024/06/23 - Latest supported Quartus Prime Lite version for Cyclone 10 LP devices is 23.1.1<br>
 
 <b>References:</b>
