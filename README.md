@@ -17,4 +17,5 @@ A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
 - Digitronix Nepal (2019). Altera Cyclone 10 LP FPGA Board Programming with Quartus Prime Lite Software. https://www.youtube.com/watch?v=rmsuWwZfjDs<br>
 - FPGAWorld (2023). Implementación del procesador NIOS II en una FPGA-Introducción a Soft-processors Parte 3. https://www.youtube.com/watch?v=BF38mgi1D7Y<br>
 - Troy Scevers (2023). Hello World - NIOS V. https://www.youtube.com/watch?v=c6t-MVQ_j8Y<br>
+- Altera (2023). Nios® V Processor for Intel® FPGAs "Ask an Expert". https://www.youtube.com/watch?v=_lpuV10-_98<br>
 
