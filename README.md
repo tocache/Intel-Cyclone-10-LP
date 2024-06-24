@@ -10,7 +10,7 @@ A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
 - Intel (2020). Cyclone 10 LP Device Overview. https://www.intel.com/content/www/us/en/docs/programmable/683879/current/device-overview.html<br>
 - Intel (2020). Cyclone 10 LP FPGA Evaluation Kit. https://www.intel.com/content/www/us/en/products/details/fpga/development-kits/cyclone/10-lp-evaluation-kit.html<br>
 - Intel (2023). Nios® V Processor for Intel® FPGA. https://www.intel.com/content/www/us/en/products/details/fpga/intellectual-property/processors-peripherals/niosv.html<br>
-- Intel (2017). Cyclone 10 LP Nios II 'Hello World' Lab Manual. https://www.intel.com/content/dam/support/us/en/programmable/support-resources/fpga-wiki/asset03/c10lp-nios-ii-hello-world-lab-manual.pdf<br><br>
+- Intel (2017). Cyclone 10 LP Nios II 'Hello World' Lab Manual. https://www.intel.com/content/dam/support/us/en/programmable/support-resources/fpga-wiki/asset03/c10lp-nios-ii-hello-world-lab-manual.pdf<br>
 
 <b>Video References:</b><br>
 - ClockFabric (2018). Introducing Intel Cyclone 10 LP FPGA. https://www.youtube.com/watch?v=w_FmjOG6kxQ&list=PLFfHucesVFJIsXRupVNl27LgeE_31wdYw<br>
