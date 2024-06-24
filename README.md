@@ -19,4 +19,5 @@ A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
 - Troy Scevers (2023). Hello World - NIOS V. https://www.youtube.com/watch?v=c6t-MVQ_j8Y<br>
 - Altera (2023). Nios® V Processor for Intel® FPGAs "Ask an Expert". https://www.youtube.com/watch?v=_lpuV10-_98<br>
 - Altera (2022). Getting Started with Nios® V/m Processor (Part 1/3). https://www.youtube.com/watch?v=3Fwgsfbbcm4<br>
+- FPGA Zealot (2024). Nios V RISC-V processor -- MAX 10 FPGA: Live Stream Part_000. https://www.youtube.com/watch?v=0n88EBO0zJI<br>
 
