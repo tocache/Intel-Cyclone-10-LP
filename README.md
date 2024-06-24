@@ -5,6 +5,7 @@ A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
 2024/06/23 - Latest supported Quartus Prime Lite version for Cyclone 10 LP devices is 23.1.1. NIOS II is discontinued as of now, new designs should use the new NIOS V processor.<br>
 
 <hr>
+<br>
 <b>References:</b><br>
 - Intel (2024). Quartus Prime Design Software. https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime/resource.html
 - Intel (2020). Cyclone 10 LP Device Overview. https://www.intel.com/content/www/us/en/docs/programmable/683879/current/device-overview.html<br>
@@ -12,6 +13,7 @@ A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
 - Intel (2023). Nios® V Processor for Intel® FPGA. https://www.intel.com/content/www/us/en/products/details/fpga/intellectual-property/processors-peripherals/niosv.html<br>
 - Intel (2017). Cyclone 10 LP Nios II 'Hello World' Lab Manual. https://www.intel.com/content/dam/support/us/en/programmable/support-resources/fpga-wiki/asset03/c10lp-nios-ii-hello-world-lab-manual.pdf<br>
 
+<br>
 <b>Video References:</b><br>
 - ClockFabric (2018). Introducing Intel Cyclone 10 LP FPGA. https://www.youtube.com/watch?v=w_FmjOG6kxQ&list=PLFfHucesVFJIsXRupVNl27LgeE_31wdYw<br>
 - Weber Luo (2023). Build a Soft Core CPU - Part Three - NIOS II in Intel FPGA. https://www.youtube.com/watch?v=ViHD-lVTHJ8<br>
