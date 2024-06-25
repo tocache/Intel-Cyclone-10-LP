@@ -2,7 +2,7 @@
 A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
 <img src="cyclone-10-lp-board.jpg"><br>
 <b>Changelog:</b><br>
-2024/06/23 - Latest supported Quartus Prime Lite version for Cyclone 10 LP devices is 23.1.1. NIOS II is discontinued as of now, new designs should use the new NIOS V processor.<br>
+2024/06/23 - Latest supported Quartus Prime Lite version for Cyclone 10 LP devices is 23.1.1. NIOS II is discontinued as of now, new designs should use the new NIOS V processor. Ref: Intel (2023/06/09). Product Discontinuance Notification PDN2312. https://www.intel.com/content/www/us/en/content-details/781327/intel-is-discontinuing-ip-ordering-codes-listed-in-pdn2312-for-nios-ii-ip.html<br>
 
 <hr>
 <br>
