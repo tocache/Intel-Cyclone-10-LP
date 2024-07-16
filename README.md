@@ -16,6 +16,7 @@ A repository of my developments for the Intel Cyclone 10 LP Evaluation Kit<br>
 
 <br>
 <b>Video References:</b><br>
+- SiFiveInc (2019). Part I: An Introduction to the RISC-V Architecture. https://www.youtube.com/watch?v=m8DqCTogb8w<br>
 - ClockFabric (2018). Introducing Intel Cyclone 10 LP FPGA. https://www.youtube.com/watch?v=w_FmjOG6kxQ&list=PLFfHucesVFJIsXRupVNl27LgeE_31wdYw<br>
 - Weber Luo (2023). Build a Soft Core CPU - Part Three - NIOS II in Intel FPGA. https://www.youtube.com/watch?v=ViHD-lVTHJ8<br>
 - Digitronix Nepal (2019). Altera Cyclone 10 LP FPGA Board Programming with Quartus Prime Lite Software. https://www.youtube.com/watch?v=rmsuWwZfjDs<br>
